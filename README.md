@@ -10,4 +10,4 @@ The entire regressor is built using only numpy as an extermal package, and later
 
 This notebook introduces the sigmoid and largely consists of a derivation of the loss function used in logistic regression. At the end, we will see a full implementation.
 
-This code-along was deeply informative about the deep workingso of logistic regression, and sharpened my intuition for applying it to binary classification problems.
+This code-along was deeply informative about the deep workings of logistic regression, and sharpened my intuition for applying it to binary classification problems.
